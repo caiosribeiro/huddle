@@ -1,0 +1,148 @@
+/*-------GERAL---------*/
+ body{
+ 	width: 98.9%;
+ 	background: ghostwhite;
+ }
+
+ p{
+ 	color: #808d99;
+ }
+
+button{
+	border-radius: 20px;
+}
+
+article{
+	border-radius: 10px;
+	background: white;
+}
+
+h5, button{
+	color: #00252e;
+	font-weight: 700;
+}
+
+button:hover{
+	cursor: pointer;
+	opacity: 0.7;
+}
+
+/*--------PARTE1----------*/
+header{
+	background: url(images/bg-hero-desktop.svg) #ebfbff;
+	text-align: left;
+}
+
+header h2{
+	padding-top: 20%;
+}
+
+#btn1{
+	border: 1px solid white;
+	float: right;
+	background: white;
+}
+
+#btn2{
+	border: 1px solid white;
+	background: #ff52bf;
+	color: white;
+}
+
+/*--------PARTE2---------*/
+#conteudo1{
+	width: 85%;
+	margin-left: 8%;
+	margin-top: 10%;
+}
+
+#conteudo1 h5{
+	padding-top: 15%;
+}
+
+/*---------PARTE3---------*/
+#conteudo2{
+	width: 85%;
+	margin-left: 8%;
+ }
+
+ #conteudo2 h5{
+	padding-top: 30%;
+}
+
+/*--------PARTE4---------*/
+#conteudo3{
+	width: 85%;
+	margin-left: 8%;
+ }
+
+ #conteudo3 h5{
+	padding-top: 30%;
+}
+
+/*-------PARTE5--------*/
+#conteudo4{
+	position: relative;
+	top: 75px;
+	width: 60%;
+	margin-top: 5%;
+	margin-left: 20%;
+	text-align: center;
+}
+
+#conteudo4 button{
+	border-radius: 30px;
+	width: 40%;
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+
+/*----------FINAL---------*/
+footer{
+	background: #00252e;
+	color: white;
+}
+
+footer p{
+	color: white;
+}
+
+i{
+	border: 1px solid white;
+	border-radius: 50%;
+}
+
+i:hover{
+	border: 1px solid #ff52bf;
+	color: #ff52bf;
+	cursor: pointer;
+}
+
+a{
+	color: white;
+}
+
+p a:hover{
+	color: white;
+}
+
+#btn3{
+	border: 1px solid white;
+	background: #ff52bf;
+	color: white;
+}
+
+#desc-footer{
+	margin-left: 10%;
+}
+
+#logo{
+	background: #00252e;
+	color: white;
+	margin-top: 10%;
+}
+
+#copy{
+	width: 99%;
+	padding-left: 70%;
+}
