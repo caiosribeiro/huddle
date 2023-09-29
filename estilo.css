@@ -1,12 +1,16 @@
 /*-------GERAL---------*/
- body{
- 	width: 98.9%;
+body{
+ 	width: 100%;
  	background: ghostwhite;
  }
 
- p{
+p{
  	color: #808d99;
  }
+
+.ajuste{
+	width: 100%;
+} 
 
 button{
 	border-radius: 20px;
